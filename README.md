@@ -12,7 +12,7 @@
 </p>
 
 - 🌱 I’m currently learning **RESTful APIs and backend development**
-- 💻 I’m working on a **Hospital Management System**
+- 💻 I’m working on a **Hospital Management System**(groub project) and **Custom Db Management System**
 - 🎓 I’m a 3rd-year **Software Engineering student**
 - 📫 Reach me at: **mohamed.aamaliche@gmail.com**
 
