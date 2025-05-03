@@ -1,19 +1,80 @@
 <h1 align="center">Hi 👋, I'm Mohamed Aamaliche</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mimid-aamaliche&label=Profile%20views&color=0e75b6&style=flat" alt="mimid-aamaliche" /> </p>
+<h3 align="center">A passionate Software Engineering student from Morocco 🇲🇦</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mimid-aamaliche" alt="mimid-aamaliche" /></a> </p>
-
-- 🌱 I’m currently learning **Restful API's**
-
-- 📫 How to reach me **mohamed.aamaliche@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mimid-aamaliche&label=Profile%20views&color=0e75b6&style=flat" alt="mimid-aamaliche" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mimid-aamaliche&theme=algolia" alt="GitHub Trophies" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mimid-aamaliche&show_icons=true&locale=en&layout=compact" alt="mimid-aamaliche" /></p>
+- 🌱 I’m currently learning **RESTful APIs and backend development**
+- 💻 I’m working on a **Hospital Management System**
+- 🎓 I’m a 3rd-year **Software Engineering student**
+- 📫 Reach me at: **mohamed.aamaliche@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mimid-aamaliche&show_icons=true&locale=en" alt="mimid-aamaliche" /></p>
+---
+
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="mailto:mohamed.aamaliche@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/your-link" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
+</p>
+
+---
+### 📌 Pinned Projects
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mimid-aamaliche/Custom-Database-Management-System" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mimid-aamaliche&repo=Custom-Database-Management-System&theme=tokyonight" />
+        <br />
+        <strong>Database Management System</strong>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mimid-aamaliche/Simple-BankSystem" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mimid-aamaliche&repo=Simple-BankSystem&theme=tokyonight" />
+        <br />
+        <strong>C++ Bank System Simulation</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimid-aamaliche&layout=compact&theme=tokyonight" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mimid-aamaliche&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+### 💡 Fun Fact
+
+> I believe in **learning by building** — most of my knowledge comes from working on real-world projects.
