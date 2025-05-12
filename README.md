@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Aamaliche</h1>
-<h3 align="center">Just a Dev with an Appetite for <span>&#128119;</span>building  and <span>&#x1F4A5;</span>breaking things </h3>
+<h3 align="center">Just a Dev with an Appetite for <span>&#x1F4A5;</span>breaking things </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mimid-aamaliche&label=Profile%20views&color=0e75b6&style=flat" alt="mimid-aamaliche" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mimid-aamaliche&theme=algolia" alt="GitHub Trophies" />
-  </a>
-</p>
+
 
 - 🌱 I’m currently learning **RESTful APIs and backend development**
 - 💻 I’m working on a **Hospital Management System**(groub project) and **Custom Db Management System**
