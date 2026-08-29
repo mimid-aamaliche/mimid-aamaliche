@@ -2,7 +2,7 @@
 
 Final-year CS engineering student at ENSA Oujda, based in Oujda, Morocco. I build full-stack stuff — mostly because I run into a problem, get annoyed, and end up writing a whole system to fix it.
 
-Started with SchoolNet (a student-teacher matching platform) back in my Bac year, in C. Rebuilt it in C#, then again with REST APIs, then again with React/TS. That project has basically tracked every skill I've picked up since.
+Started with SchoolNet (a student-teacher matching platform) back in my Bac year, first as a WinForms + C# desktop app. Rebuilt it later with a proper C# REST API and a React/TS frontend. That project has basically tracked every skill I've picked up since.
 
 **what I've been building:**
 
@@ -14,6 +14,5 @@ Started with SchoolNet (a student-teacher matching platform) back in my Bac year
 
 **stack:** C#/.NET, Spring Boot, PHP/Symfony, React/TypeScript, SQL Server/MySQL, Docker, GitHub Actions, and lately a lot of RAG/LLM tooling (LangChain, ChromaDB, Ollama).
 
-Currently looking for a Stage PFA (end-of-year internship) in full-stack or AI engineering.
 
 📫 [LinkedIn](https://linkedin.com/in/Mimid-aamaliche) · mohamed.aamaliche@gmail.com
