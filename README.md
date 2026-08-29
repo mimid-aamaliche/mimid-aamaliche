@@ -1,75 +1,19 @@
-<h1 align="center">Hi 👋, I'm Mohamed Aamaliche</h1>
-<!--<h3 align="center">Just a Dev with an Appetite for <span>&#x1F4A5;</span>breaking things </h3>-->
+### hey, I'm Mimid
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mimid-aamaliche&label=Profile%20views&color=0e75b6&style=flat" alt="mimid-aamaliche" />
-</p>
+Final-year CS engineering student at ENSA Oujda, based in Oujda, Morocco. I build full-stack stuff — mostly because I run into a problem, get annoyed, and end up writing a whole system to fix it.
 
+Started with SchoolNet (a student-teacher matching platform) back in my Bac year, in C. Rebuilt it in C#, then again with REST APIs, then again with React/TS. That project has basically tracked every skill I've picked up since.
 
+**what I've been building:**
 
-- 🌱 I’m currently learning **RESTful APIs and backend development**
-- 💻 I’m working on a **Hospital Management System**(groub project) and **Custom Db Management System**
-- 🎓 I’m a 3rd-year **Software Engineering student**
-- 📫 Reach me at: **mohamed.aamaliche@gmail.com**
+- **CHU NeoNat** — medical records system for a NICU, Spring Boot backend. Auth, secure image upload, audio transcription, automated PDF report generation, and a RAG chatbot so hospital staff can pull up similar past patient cases.
+- **Full-Stack Course Platform** — migrated a legacy WinForms desktop app into ASP.NET Core + React/TS, with Stripe payments and Mux DRM video streaming.
+- **LexAgent** — a RAG chatbot for Moroccan legal/regulatory docs, French/Arabic, FastAPI + ChromaDB + LangChain.
+- **Multi-tenant SaaS booking platform** — Symfony, subdomain-based tenants, magic-link + JWT auth, shipped as a working MVP in under 3 weeks.
+- Solana + Ethereum on-chain swap indexers, a custom mini-DBMS in C#, and a few other things I built just to understand how they work under the hood.
 
----
+**stack:** C#/.NET, Spring Boot, PHP/Symfony, React/TypeScript, SQL Server/MySQL, Docker, GitHub Actions, and lately a lot of RAG/LLM tooling (LangChain, ChromaDB, Ollama).
 
-### 🔗 Connect with Me
+Currently looking for a Stage PFA (end-of-year internship) in full-stack or AI engineering.
 
-<p align="left">
-  <a href="mailto:mohamed.aamaliche@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-</p>
-
----
-### 📌 Pinned Projects
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/mimid-aamaliche/Custom-Database-Management-System" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mimid-aamaliche&repo=Custom-Database-Management-System&theme=tokyonight" />
-        <br />
-        <strong>Database Management System</strong>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/mimid-aamaliche/Simple-BankSystem" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mimid-aamaliche&repo=Simple-BankSystem&theme=tokyonight" />
-        <br />
-        <strong>C++ Bank System Simulation</strong>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimid-aamaliche&layout=compact&theme=tokyonight" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mimid-aamaliche&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-### 💡 Fun Fact
-
-> I believe in **learning by building** — most of my knowledge comes from working on real-world projects.
+📫 [LinkedIn](https://linkedin.com/in/Mimid-aamaliche) · mohamed.aamaliche@gmail.com
