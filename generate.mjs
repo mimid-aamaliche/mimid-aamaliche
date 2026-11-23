@@ -64,9 +64,27 @@ const GLYPHS = {
   A: ['.XXX.', 'X...X', 'X...X', 'XXXXX', 'X...X', 'X...X', 'X...X'],
 };
 
+// The site's two chapters side by side: the dark room (#111111, bronze) and the paper chapter
+// (#f2f2f2, #e2ded6). The monogram panel takes the chapter the text panel does not use.
 const THEMES = {
-  dark: { bg: '#111111', border: '#2a2a2a', ink: '#f2f2f2', muted: '#8f8f8f', accent: '#a08672' },
-  light: { bg: '#f2f2f2', border: '#d6d1c8', ink: '#111111', muted: '#4d4d4d', accent: '#7d6552' },
+  dark: {
+    bg: '#111111',
+    panel: '#e2ded6',
+    mark: '#111111',
+    border: '#2a2a2a',
+    ink: '#f2f2f2',
+    muted: '#8f8f8f',
+    accent: '#a08672',
+  },
+  light: {
+    bg: '#f2f2f2',
+    panel: '#111111',
+    mark: '#a08672',
+    border: '#d6d1c8',
+    ink: '#111111',
+    muted: '#4d4d4d',
+    accent: '#7d6552',
+  },
 };
 
 export function escapeXml(text) {
@@ -163,11 +181,11 @@ function monogram(theme, height) {
   const strip = Array.from({ length: STRIP_COUNT }, (_, i) => {
     const x = startX + i * (STRIP_CELL + GAP);
     const opacity = (1 - i / STRIP_COUNT).toFixed(2);
-    return `<rect x="${x}" y="${top + glyphHeight + 28}" width="${STRIP_CELL}" height="${STRIP_CELL}" fill="${theme.accent}" opacity="${opacity}"/>`;
+    return `<rect x="${x}" y="${top + glyphHeight + 28}" width="${STRIP_CELL}" height="${STRIP_CELL}" fill="${theme.mark}" opacity="${opacity}"/>`;
   });
   return [
-    ...glyphRects('M', startX, top, theme.accent),
-    ...glyphRects('A', startX + glyphWidth + LETTER_GAP, top, theme.accent),
+    ...glyphRects('M', startX, top, theme.mark),
+    ...glyphRects('A', startX + glyphWidth + LETTER_GAP, top, theme.mark),
     ...strip,
   ].join('\n    ');
 }
@@ -202,10 +220,11 @@ export function renderCard(stats, themeName) {
     @keyframes blink { 50% { opacity: 0; } }
     @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
   </style>
-  <rect x="0.5" y="0.5" width="${CARD_WIDTH - 1}" height="${height - 1}" fill="${theme.bg}" stroke="${theme.border}"/>
+  <rect width="${CARD_WIDTH}" height="${height}" fill="${theme.bg}"/>
+  <rect width="${DIVIDER_X}" height="${height}" fill="${theme.panel}"/>
+  <rect x="0.5" y="0.5" width="${CARD_WIDTH - 1}" height="${height - 1}" fill="none" stroke="${theme.border}"/>
   <g aria-hidden="true">
     ${monogram(theme, height)}
-    <line x1="${DIVIDER_X}" y1="${PAD}" x2="${DIVIDER_X}" y2="${height - PAD}" stroke="${theme.border}"/>
   </g>
   ${lines.map(textLine).filter(Boolean).join('\n  ')}
   <text x="${TEXT_X}" y="${promptY}" xml:space="preserve"><tspan class="k">$</tspan></text>

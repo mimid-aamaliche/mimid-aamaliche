@@ -11,55 +11,56 @@
     @keyframes blink { 50% { opacity: 0; } }
     @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
   </style>
-  <rect x="0.5" y="0.5" width="879" height="583" fill="#f2f2f2" stroke="#d6d1c8"/>
+  <rect width="880" height="584" fill="#f2f2f2"/>
+  <rect width="345" height="584" fill="#111111"/>
+  <rect x="0.5" y="0.5" width="879" height="583" fill="none" stroke="#d6d1c8"/>
   <g aria-hidden="true">
-    <rect x="36" y="183" width="22" height="22" fill="#7d6552"/>
-    <rect x="140" y="183" width="22" height="22" fill="#7d6552"/>
-    <rect x="36" y="209" width="22" height="22" fill="#7d6552"/>
-    <rect x="62" y="209" width="22" height="22" fill="#7d6552"/>
-    <rect x="114" y="209" width="22" height="22" fill="#7d6552"/>
-    <rect x="140" y="209" width="22" height="22" fill="#7d6552"/>
-    <rect x="36" y="235" width="22" height="22" fill="#7d6552"/>
-    <rect x="88" y="235" width="22" height="22" fill="#7d6552"/>
-    <rect x="140" y="235" width="22" height="22" fill="#7d6552"/>
-    <rect x="36" y="261" width="22" height="22" fill="#7d6552"/>
-    <rect x="140" y="261" width="22" height="22" fill="#7d6552"/>
-    <rect x="36" y="287" width="22" height="22" fill="#7d6552"/>
-    <rect x="140" y="287" width="22" height="22" fill="#7d6552"/>
-    <rect x="36" y="313" width="22" height="22" fill="#7d6552"/>
-    <rect x="140" y="313" width="22" height="22" fill="#7d6552"/>
-    <rect x="36" y="339" width="22" height="22" fill="#7d6552"/>
-    <rect x="140" y="339" width="22" height="22" fill="#7d6552"/>
-    <rect x="214" y="183" width="22" height="22" fill="#7d6552"/>
-    <rect x="240" y="183" width="22" height="22" fill="#7d6552"/>
-    <rect x="266" y="183" width="22" height="22" fill="#7d6552"/>
-    <rect x="188" y="209" width="22" height="22" fill="#7d6552"/>
-    <rect x="292" y="209" width="22" height="22" fill="#7d6552"/>
-    <rect x="188" y="235" width="22" height="22" fill="#7d6552"/>
-    <rect x="292" y="235" width="22" height="22" fill="#7d6552"/>
-    <rect x="188" y="261" width="22" height="22" fill="#7d6552"/>
-    <rect x="214" y="261" width="22" height="22" fill="#7d6552"/>
-    <rect x="240" y="261" width="22" height="22" fill="#7d6552"/>
-    <rect x="266" y="261" width="22" height="22" fill="#7d6552"/>
-    <rect x="292" y="261" width="22" height="22" fill="#7d6552"/>
-    <rect x="188" y="287" width="22" height="22" fill="#7d6552"/>
-    <rect x="292" y="287" width="22" height="22" fill="#7d6552"/>
-    <rect x="188" y="313" width="22" height="22" fill="#7d6552"/>
-    <rect x="292" y="313" width="22" height="22" fill="#7d6552"/>
-    <rect x="188" y="339" width="22" height="22" fill="#7d6552"/>
-    <rect x="292" y="339" width="22" height="22" fill="#7d6552"/>
-    <rect x="36" y="389" width="9" height="9" fill="#7d6552" opacity="1.00"/>
-    <rect x="49" y="389" width="9" height="9" fill="#7d6552" opacity="0.91"/>
-    <rect x="62" y="389" width="9" height="9" fill="#7d6552" opacity="0.82"/>
-    <rect x="75" y="389" width="9" height="9" fill="#7d6552" opacity="0.73"/>
-    <rect x="88" y="389" width="9" height="9" fill="#7d6552" opacity="0.64"/>
-    <rect x="101" y="389" width="9" height="9" fill="#7d6552" opacity="0.55"/>
-    <rect x="114" y="389" width="9" height="9" fill="#7d6552" opacity="0.45"/>
-    <rect x="127" y="389" width="9" height="9" fill="#7d6552" opacity="0.36"/>
-    <rect x="140" y="389" width="9" height="9" fill="#7d6552" opacity="0.27"/>
-    <rect x="153" y="389" width="9" height="9" fill="#7d6552" opacity="0.18"/>
-    <rect x="166" y="389" width="9" height="9" fill="#7d6552" opacity="0.09"/>
-    <line x1="345" y1="40" x2="345" y2="544" stroke="#d6d1c8"/>
+    <rect x="36" y="183" width="22" height="22" fill="#a08672"/>
+    <rect x="140" y="183" width="22" height="22" fill="#a08672"/>
+    <rect x="36" y="209" width="22" height="22" fill="#a08672"/>
+    <rect x="62" y="209" width="22" height="22" fill="#a08672"/>
+    <rect x="114" y="209" width="22" height="22" fill="#a08672"/>
+    <rect x="140" y="209" width="22" height="22" fill="#a08672"/>
+    <rect x="36" y="235" width="22" height="22" fill="#a08672"/>
+    <rect x="88" y="235" width="22" height="22" fill="#a08672"/>
+    <rect x="140" y="235" width="22" height="22" fill="#a08672"/>
+    <rect x="36" y="261" width="22" height="22" fill="#a08672"/>
+    <rect x="140" y="261" width="22" height="22" fill="#a08672"/>
+    <rect x="36" y="287" width="22" height="22" fill="#a08672"/>
+    <rect x="140" y="287" width="22" height="22" fill="#a08672"/>
+    <rect x="36" y="313" width="22" height="22" fill="#a08672"/>
+    <rect x="140" y="313" width="22" height="22" fill="#a08672"/>
+    <rect x="36" y="339" width="22" height="22" fill="#a08672"/>
+    <rect x="140" y="339" width="22" height="22" fill="#a08672"/>
+    <rect x="214" y="183" width="22" height="22" fill="#a08672"/>
+    <rect x="240" y="183" width="22" height="22" fill="#a08672"/>
+    <rect x="266" y="183" width="22" height="22" fill="#a08672"/>
+    <rect x="188" y="209" width="22" height="22" fill="#a08672"/>
+    <rect x="292" y="209" width="22" height="22" fill="#a08672"/>
+    <rect x="188" y="235" width="22" height="22" fill="#a08672"/>
+    <rect x="292" y="235" width="22" height="22" fill="#a08672"/>
+    <rect x="188" y="261" width="22" height="22" fill="#a08672"/>
+    <rect x="214" y="261" width="22" height="22" fill="#a08672"/>
+    <rect x="240" y="261" width="22" height="22" fill="#a08672"/>
+    <rect x="266" y="261" width="22" height="22" fill="#a08672"/>
+    <rect x="292" y="261" width="22" height="22" fill="#a08672"/>
+    <rect x="188" y="287" width="22" height="22" fill="#a08672"/>
+    <rect x="292" y="287" width="22" height="22" fill="#a08672"/>
+    <rect x="188" y="313" width="22" height="22" fill="#a08672"/>
+    <rect x="292" y="313" width="22" height="22" fill="#a08672"/>
+    <rect x="188" y="339" width="22" height="22" fill="#a08672"/>
+    <rect x="292" y="339" width="22" height="22" fill="#a08672"/>
+    <rect x="36" y="389" width="9" height="9" fill="#a08672" opacity="1.00"/>
+    <rect x="49" y="389" width="9" height="9" fill="#a08672" opacity="0.91"/>
+    <rect x="62" y="389" width="9" height="9" fill="#a08672" opacity="0.82"/>
+    <rect x="75" y="389" width="9" height="9" fill="#a08672" opacity="0.73"/>
+    <rect x="88" y="389" width="9" height="9" fill="#a08672" opacity="0.64"/>
+    <rect x="101" y="389" width="9" height="9" fill="#a08672" opacity="0.55"/>
+    <rect x="114" y="389" width="9" height="9" fill="#a08672" opacity="0.45"/>
+    <rect x="127" y="389" width="9" height="9" fill="#a08672" opacity="0.36"/>
+    <rect x="140" y="389" width="9" height="9" fill="#a08672" opacity="0.27"/>
+    <rect x="153" y="389" width="9" height="9" fill="#a08672" opacity="0.18"/>
+    <rect x="166" y="389" width="9" height="9" fill="#a08672" opacity="0.09"/>
   </g>
   <text x="380" y="54" xml:space="preserve"><tspan class="h">mohamed@aamaliche</tspan></text>
   <text x="380" y="75" xml:space="preserve"><tspan class="d">─────────────────</tspan></text>
@@ -78,7 +79,7 @@
   <text x="380" y="390" xml:space="preserve"><tspan class="k">LinkedIn</tspan><tspan class="d"> .. </tspan><tspan class="v">in/Mimid-aamaliche</tspan></text>
   <text x="380" y="432" xml:space="preserve"><tspan class="d">── </tspan><tspan class="h">GitHub, public</tspan><tspan class="d"> ──────────────────────────────────────</tspan></text>
   <text x="380" y="453" xml:space="preserve"><tspan class="k">Repos</tspan><tspan class="d"> ..... </tspan><tspan class="v">23</tspan></text>
-  <text x="380" y="474" xml:space="preserve"><tspan class="k">Commits</tspan><tspan class="d"> ... </tspan><tspan class="v">116</tspan></text>
+  <text x="380" y="474" xml:space="preserve"><tspan class="k">Commits</tspan><tspan class="d"> ... </tspan><tspan class="v">117</tspan></text>
   <text x="380" y="495" xml:space="preserve"><tspan class="k">Code</tspan><tspan class="d"> ...... </tspan><tspan class="v">C#, C++, HTML</tspan></text>
   <text x="380" y="537" xml:space="preserve"><tspan class="k">$</tspan></text>
   <rect class="cursor" x="397.36" y="525" width="8.68" height="14" fill="#7d6552"/>

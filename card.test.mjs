@@ -86,6 +86,11 @@ test('renderCard is deterministic and the two themes differ', () => {
   assert.match(renderCard(STATS, 'light'), /fill="#f2f2f2"/);
 });
 
+test('the monogram panel uses the other chapter of the palette', () => {
+  assert.match(renderCard(STATS, 'dark'), /<rect width="\d+" height="\d+" fill="#e2ded6"\/>/);
+  assert.match(renderCard(STATS, 'light'), /<rect width="\d+" height="\d+" fill="#111111"\/>/);
+});
+
 test('renderCard rejects an unknown theme', () => {
   assert.throws(() => renderCard(STATS, 'sepia'), /Unknown theme/);
 });

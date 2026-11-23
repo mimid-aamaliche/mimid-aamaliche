@@ -19,8 +19,6 @@ I build automations, AI assistants and .NET applications. I start by understandi
 
 **A .NET application.** An ASP.NET Core API, a SQL Server or PostgreSQL database and a React interface, from the API to the screen. Example: [School Net](https://aamaliche.com/en/projects/school-net/), personal project.
 
-Not offered: autonomous agents, n8n or Make workflows, promised savings figures. Not yet: a measured result.
-
 ## Projects
 
 Each project is shown with its exact status: personal, academic or client. I never pass an exercise off as an assignment.
@@ -51,8 +49,6 @@ Je construis des automatisations, des assistants IA et des applications .NET. Je
 **De la voix au rapport PDF.** Une transcription audio en local avec Whisper, puis un rapport PDF produit automatiquement à partir des données saisies. Exemple&nbsp;: [Dossier patient intelligent](https://aamaliche.com/projets/dossier-patient-intelligent/), projet client.
 
 **Une application .NET.** Une API ASP.NET Core, une base SQL Server ou PostgreSQL et une interface React, de l'API à l'écran. Exemple&nbsp;: [School Net](https://aamaliche.com/projets/school-net/), projet personnel.
-
-Non inclus&nbsp;: agents autonomes, workflows n8n ou Make, gains chiffrés promis. Pas encore&nbsp;: un résultat chiffré.
 
 ## Projets
 
