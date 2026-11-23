@@ -9,7 +9,7 @@
 
 I build automations, AI assistants and .NET applications. I start by understanding how a business works, then I automate its repetitive tasks, with AI when rules are no longer enough.
 
-[aamaliche.com](https://aamaliche.com/en/) · [Upwork](https://www.upwork.com/freelancers/~0169f06e9faed57636) · [LinkedIn](https://www.linkedin.com/in/Mimid-aamaliche) · mohamed@aamaliche.com
+[Portfolio: aamaliche.com](https://aamaliche.com/en/) · [Upwork](https://www.upwork.com/freelancers/~0169f06e9faed57636) · [LinkedIn](https://www.linkedin.com/in/Mimid-aamaliche) · mohamed@aamaliche.com
 
 ## What I build
 
@@ -30,6 +30,8 @@ Each project is shown with its exact status: personal, academic or client. I nev
 | [School Net, an online course platform](https://aamaliche.com/en/projects/school-net/) | Personal project | ASP.NET Core 8, React 19, TypeScript, SQL Server, Stripe, Mux |
 | [Real-time data tracking](https://aamaliche.com/en/projects/real-time-data-tracking/) | Client project | .NET, PostgreSQL, Entity Framework |
 
+Each project has its own page, with the details, in my [portfolio](https://aamaliche.com/en/projects/).
+
 ## Education and experience
 
 - **École Nationale des Sciences Appliquées d'Oujda:** engineering programme in software engineering and artificial intelligence, 2022 to 2027.
@@ -40,7 +42,7 @@ Each project is shown with its exact status: personal, academic or client. I nev
 
 Je construis des automatisations, des assistants IA et des applications .NET. Je commence par comprendre comment une entreprise travaille, puis j'automatise ses tâches répétitives, avec l'IA quand les règles ne suffisent plus.
 
-[aamaliche.com](https://aamaliche.com/) · [Upwork](https://www.upwork.com/freelancers/~0169f06e9faed57636) · [LinkedIn](https://www.linkedin.com/in/Mimid-aamaliche) · mohamed@aamaliche.com
+[Portfolio&nbsp;: aamaliche.com](https://aamaliche.com/) · [Upwork](https://www.upwork.com/freelancers/~0169f06e9faed57636) · [LinkedIn](https://www.linkedin.com/in/Mimid-aamaliche) · mohamed@aamaliche.com
 
 ## Ce que je construis
 
@@ -60,6 +62,8 @@ Chaque projet est présenté avec son statut exact&nbsp;: personnel, académique
 | [Dossier patient intelligent](https://aamaliche.com/projets/dossier-patient-intelligent/) | Projet client | Java, Spring Boot, Thymeleaf, LaTeX, pdflatex, MinIO, Whisper |
 | [School Net, plateforme de cours en ligne](https://aamaliche.com/projets/school-net/) | Projet personnel | ASP.NET Core 8, React 19, TypeScript, SQL Server, Stripe, Mux |
 | [Suivi de données en temps réel](https://aamaliche.com/projets/suivi-donnees-temps-reel/) | Projet client | .NET, PostgreSQL, Entity Framework |
+
+Chaque projet a sa propre page, avec le détail, dans mon [portfolio](https://aamaliche.com/projets/).
 
 ## Formation et expérience
 

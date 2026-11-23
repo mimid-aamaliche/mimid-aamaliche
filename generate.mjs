@@ -29,7 +29,7 @@ export const PROFILE = {
     {
       heading: 'Contact',
       rows: [
-        ['Site', 'aamaliche.com'],
+        ['Portfolio', 'aamaliche.com'],
         ['Email', 'mohamed@aamaliche.com'],
         ['LinkedIn', 'in/Mimid-aamaliche'],
       ],
