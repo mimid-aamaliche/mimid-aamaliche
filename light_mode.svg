@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="584" viewBox="0 0 880 584" role="img" aria-labelledby="card-title card-desc">
+  <title id="card-title">Mohamed Aamaliche: AI automation &amp; .NET</title>
+  <desc id="card-desc">Engineering student at ENSA Oujda, freelance work. 23 public repositories on GitHub.</desc>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", "DejaVu Sans Mono", monospace; font-size: 14px; white-space: pre; }
+    .h { fill: #111111; font-weight: 700; }
+    .k { fill: #7d6552; font-weight: 700; }
+    .d { fill: #4d4d4d; }
+    .v { fill: #111111; }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+  </style>
+  <rect x="0.5" y="0.5" width="879" height="583" fill="#f2f2f2" stroke="#d6d1c8"/>
+  <g aria-hidden="true">
+    <rect x="36" y="183" width="22" height="22" fill="#7d6552"/>
+    <rect x="140" y="183" width="22" height="22" fill="#7d6552"/>
+    <rect x="36" y="209" width="22" height="22" fill="#7d6552"/>
+    <rect x="62" y="209" width="22" height="22" fill="#7d6552"/>
+    <rect x="114" y="209" width="22" height="22" fill="#7d6552"/>
+    <rect x="140" y="209" width="22" height="22" fill="#7d6552"/>
+    <rect x="36" y="235" width="22" height="22" fill="#7d6552"/>
+    <rect x="88" y="235" width="22" height="22" fill="#7d6552"/>
+    <rect x="140" y="235" width="22" height="22" fill="#7d6552"/>
+    <rect x="36" y="261" width="22" height="22" fill="#7d6552"/>
+    <rect x="140" y="261" width="22" height="22" fill="#7d6552"/>
+    <rect x="36" y="287" width="22" height="22" fill="#7d6552"/>
+    <rect x="140" y="287" width="22" height="22" fill="#7d6552"/>
+    <rect x="36" y="313" width="22" height="22" fill="#7d6552"/>
+    <rect x="140" y="313" width="22" height="22" fill="#7d6552"/>
+    <rect x="36" y="339" width="22" height="22" fill="#7d6552"/>
+    <rect x="140" y="339" width="22" height="22" fill="#7d6552"/>
+    <rect x="214" y="183" width="22" height="22" fill="#7d6552"/>
+    <rect x="240" y="183" width="22" height="22" fill="#7d6552"/>
+    <rect x="266" y="183" width="22" height="22" fill="#7d6552"/>
+    <rect x="188" y="209" width="22" height="22" fill="#7d6552"/>
+    <rect x="292" y="209" width="22" height="22" fill="#7d6552"/>
+    <rect x="188" y="235" width="22" height="22" fill="#7d6552"/>
+    <rect x="292" y="235" width="22" height="22" fill="#7d6552"/>
+    <rect x="188" y="261" width="22" height="22" fill="#7d6552"/>
+    <rect x="214" y="261" width="22" height="22" fill="#7d6552"/>
+    <rect x="240" y="261" width="22" height="22" fill="#7d6552"/>
+    <rect x="266" y="261" width="22" height="22" fill="#7d6552"/>
+    <rect x="292" y="261" width="22" height="22" fill="#7d6552"/>
+    <rect x="188" y="287" width="22" height="22" fill="#7d6552"/>
+    <rect x="292" y="287" width="22" height="22" fill="#7d6552"/>
+    <rect x="188" y="313" width="22" height="22" fill="#7d6552"/>
+    <rect x="292" y="313" width="22" height="22" fill="#7d6552"/>
+    <rect x="188" y="339" width="22" height="22" fill="#7d6552"/>
+    <rect x="292" y="339" width="22" height="22" fill="#7d6552"/>
+    <rect x="36" y="389" width="9" height="9" fill="#7d6552" opacity="1.00"/>
+    <rect x="49" y="389" width="9" height="9" fill="#7d6552" opacity="0.91"/>
+    <rect x="62" y="389" width="9" height="9" fill="#7d6552" opacity="0.82"/>
+    <rect x="75" y="389" width="9" height="9" fill="#7d6552" opacity="0.73"/>
+    <rect x="88" y="389" width="9" height="9" fill="#7d6552" opacity="0.64"/>
+    <rect x="101" y="389" width="9" height="9" fill="#7d6552" opacity="0.55"/>
+    <rect x="114" y="389" width="9" height="9" fill="#7d6552" opacity="0.45"/>
+    <rect x="127" y="389" width="9" height="9" fill="#7d6552" opacity="0.36"/>
+    <rect x="140" y="389" width="9" height="9" fill="#7d6552" opacity="0.27"/>
+    <rect x="153" y="389" width="9" height="9" fill="#7d6552" opacity="0.18"/>
+    <rect x="166" y="389" width="9" height="9" fill="#7d6552" opacity="0.09"/>
+    <line x1="345" y1="40" x2="345" y2="544" stroke="#d6d1c8"/>
+  </g>
+  <text x="380" y="54" xml:space="preserve"><tspan class="h">mohamed@aamaliche</tspan></text>
+  <text x="380" y="75" xml:space="preserve"><tspan class="d">─────────────────</tspan></text>
+  <text x="380" y="96" xml:space="preserve"><tspan class="k">Role</tspan><tspan class="d"> ...... </tspan><tspan class="v">AI automation &amp; .NET</tspan></text>
+  <text x="380" y="117" xml:space="preserve"><tspan class="k">Status</tspan><tspan class="d"> .... </tspan><tspan class="v">Engineering student, ENSA Oujda</tspan></text>
+  <text x="380" y="138" xml:space="preserve"><tspan class="k">Work</tspan><tspan class="d"> ...... </tspan><tspan class="v">Freelance, remote</tspan></text>
+  <text x="380" y="159" xml:space="preserve"><tspan class="k">Spoken</tspan><tspan class="d"> .... </tspan><tspan class="v">Arabic, English, French</tspan></text>
+  <text x="380" y="201" xml:space="preserve"><tspan class="d">── </tspan><tspan class="h">Stack</tspan><tspan class="d"> ───────────────────────────────────────────────</tspan></text>
+  <text x="380" y="222" xml:space="preserve"><tspan class="k">.NET</tspan><tspan class="d"> ...... </tspan><tspan class="v">C#, ASP.NET Core</tspan></text>
+  <text x="380" y="243" xml:space="preserve"><tspan class="k">AI</tspan><tspan class="d"> ........ </tspan><tspan class="v">Python, Ollama, LangChain, ChromaDB, Whisper</tspan></text>
+  <text x="380" y="264" xml:space="preserve"><tspan class="k">Data</tspan><tspan class="d"> ...... </tspan><tspan class="v">SQL Server, PostgreSQL, SQLite</tspan></text>
+  <text x="380" y="285" xml:space="preserve"><tspan class="k">Web</tspan><tspan class="d"> ....... </tspan><tspan class="v">React, Spring Boot, Symfony</tspan></text>
+  <text x="380" y="327" xml:space="preserve"><tspan class="d">── </tspan><tspan class="h">Contact</tspan><tspan class="d"> ─────────────────────────────────────────────</tspan></text>
+  <text x="380" y="348" xml:space="preserve"><tspan class="k">Site</tspan><tspan class="d"> ...... </tspan><tspan class="v">aamaliche.com</tspan></text>
+  <text x="380" y="369" xml:space="preserve"><tspan class="k">Email</tspan><tspan class="d"> ..... </tspan><tspan class="v">mohamed@aamaliche.com</tspan></text>
+  <text x="380" y="390" xml:space="preserve"><tspan class="k">LinkedIn</tspan><tspan class="d"> .. </tspan><tspan class="v">in/Mimid-aamaliche</tspan></text>
+  <text x="380" y="432" xml:space="preserve"><tspan class="d">── </tspan><tspan class="h">GitHub, public</tspan><tspan class="d"> ──────────────────────────────────────</tspan></text>
+  <text x="380" y="453" xml:space="preserve"><tspan class="k">Repos</tspan><tspan class="d"> ..... </tspan><tspan class="v">23</tspan></text>
+  <text x="380" y="474" xml:space="preserve"><tspan class="k">Commits</tspan><tspan class="d"> ... </tspan><tspan class="v">116</tspan></text>
+  <text x="380" y="495" xml:space="preserve"><tspan class="k">Code</tspan><tspan class="d"> ...... </tspan><tspan class="v">C#, C++, HTML</tspan></text>
+  <text x="380" y="537" xml:space="preserve"><tspan class="k">$</tspan></text>
+  <rect class="cursor" x="397.36" y="525" width="8.68" height="14" fill="#7d6552"/>
+</svg>
